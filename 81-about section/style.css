@@ -1,0 +1,126 @@
+
+body{
+    padding: 0;
+    margin: 0;
+    font-family: Montserrat,Philosopher,Roboto;
+    
+}
+
+
+
+/*========================   Nav manu ==================*/
+
+.section-padding {
+  padding: 100px 0;
+}
+.section-tittle {
+  text-align: center;
+  margin-bottom: 60px;
+}
+.section-img img {
+  max-width: 70%;
+}
+.section-img {
+  text-align: right;
+}
+.section-text {
+  border: 10px solid#eeeeee;
+  padding: 20px;
+  position: relative;
+  max-width: 450px;
+  margin-top: -150px;
+  background: #fff;
+	padding-left: 40px;
+}
+.social-link a {
+  display: inline-block;
+  background: #efefef;
+  height: 40px;
+  width: 40px;
+  font-size: 16px;
+  text-align: center;
+  border-radius: 50%;
+  line-height: 40px;
+	margin: 4px;
+}
+.social-link {
+  position: absolute;
+  right: -24px;
+  width: 40px;
+  height: 100%;
+  top: 0;
+  display: table;
+}
+.social-link-warp {
+  display: table-cell;
+  vertical-align: middle;
+}
+.right-side .section-img {
+  text-align: left;
+}
+
+.section-padding {
+  padding: 100px 0;
+}
+.section-tittle {
+  text-align: center;
+  margin-bottom: 60px;
+}
+.section-img img {
+  max-width: 70%;
+}
+.section-img {
+  text-align: right;
+}
+.section-text {
+	border: 10px solid#eeeeee;
+	padding: 30px;
+	position: relative;
+	max-width: 450px;
+	margin-top: -150px;
+	background: #fff;
+}
+.social-link a {
+  display: inline-block;
+  background: #efefef;
+  height: 40px;
+  width: 40px;
+  font-size: 16px;
+  text-align: center;
+  border-radius: 50%;
+  line-height: 40px;
+}
+.social-link {
+  position: absolute;
+  right: -24px;
+  width: 40px;
+  height: 100%;
+  top: 0;
+  display: table;
+}
+.social-link-warp {
+  display: table-cell;
+  vertical-align: middle;
+}
+.right-side .section-img {
+  text-align: left;
+  color: red;
+}
+.right-side .section-text {
+	float: right;
+	padding-right: 40px;
+}
+.right-side .social-link {
+  right: auto;
+  left: -24px;
+}
+.right-side .social-link {
+  right: auto;
+  left: -24px;
+}
+
+
+
+
+
+
